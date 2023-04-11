@@ -1,7 +1,7 @@
 ## Hello! 
 
 ### **About**
-A Computer Engineer in Singapore University of Technology and Desgin and Temasek Polytechnic.
+A Computer Engineer from **Singapore University of Technology and Desgin** and **Temasek Polytechnic**.
 <br></br>
 
 ### **Summary**

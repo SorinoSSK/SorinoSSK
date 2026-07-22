@@ -1,7 +1,7 @@
 ## Hello! 
 
 ### **About**
-A Computer Engineer from **Singapore University of Technology and Desgin** and **Temasek Polytechnic**.
+Software Engineer specialised in developing solutions across embedded systems, IoT, robotics, and software applications. Computer Engineering graduate from the Singapore University of Technology and Design (SUTD) and Temasek Polytechnic.
 <br></br>
 
 ### **Summary**
